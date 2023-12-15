@@ -1,6 +1,7 @@
 # VENTURA TECH WPP
 
 <p>ferramenta basica para usar no termux, um emulador de terminal de celular.</p>
+![logotipo horizontal](https://github.com/projetosventura/wppdown/assets/57150877/504f172d-13dd-4bac-a0af-7fa304f660f2)
 
 ## ⚠️avisos⚠️
 <p>essa ferramenta foi criada apenas para <b>APRENDIZADO E NÃO MALANDRAGEM</b> não utilize para prejudicar pessoas, não me responsabilizo por uso indevido do código.</p>
