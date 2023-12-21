@@ -21,7 +21,7 @@
      <li>pkg install node</li>
       <li>pkg install git</li>
        <li>git clone https://github.com/projetosventura/wppdown.git</li>
-       <li>cd crocodile</li>
+       <li>cd wppdown</li>
        <li>bash install.sh</li>
        <li>npm start</li>
        
